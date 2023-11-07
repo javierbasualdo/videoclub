@@ -21,7 +21,7 @@ yarn lint
 ```
 
 
-## Demo: [https://video-club.vercel.app/](https://videoclub-sage.vercel.app/)
+## Demo: https://videoclub-sage.vercel.app/
 
 ## This project has been developed with:
 
