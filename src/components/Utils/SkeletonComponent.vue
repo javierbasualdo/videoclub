@@ -10,7 +10,7 @@
 const props = defineProps({
     items: {
         type: Number,
-        required: true,
+        required: false,
     },
     classes: {
         type: String,
@@ -18,7 +18,7 @@ const props = defineProps({
     }
 })
 
-const items = props.items || 1
-const classes = props.classes || ''
+const items = props?.items || 1
+const classes = props?.classes || ''
 
 </script>
