@@ -1,5 +1,5 @@
 <template>
-    <section class="text-gray-600 body-font overflow-hidden">
+    <section class="body-font overflow-hidden">
         <div class="container px-5 py-4 mx-auto">
             <div class="mb-4">
                 <RouterLink to="/"> &#8678; Back</RouterLink>
